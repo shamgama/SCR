@@ -28,6 +28,9 @@
 @containerControlFontColor: #ffffff;
 @gridControlHeaderColor: #073763;
 @gridControlHeaderFontColor: #ffffff;
+@gridControlHeaderFontColor: #gggggg;
+
+
 
 body {
 
