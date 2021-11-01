@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="0242ac12-0002-a1ec-8ec5-8ffc04548956">
+	<DocumentID>0242ac12-0002-a1ec-8ec5-8ffc044a8956</DocumentID>
+	<Name>SCR</Name>
+	<Description>SCR</Description>
+	<CreatedBy>John Thomas</CreatedBy>
+	<CreationDate>2021-11-01T13:19:03.047</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="0242ac12-0002-a1ec-8ec5-8ffc042f0956">
+			<DocumentID>0242ac12-0002-a1ec-8ec5-8ffc04278956</DocumentID>
+			<Name>My Company scr</Name>
+			<Description>My Company scr</Description>
+			<CreatedBy>John Thomas</CreatedBy>
+			<CreationDate>2021-11-01T13:19:03.048</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company scr 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>scr</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00505601-A977-A1EC-8EC4-1C2E9461FB6C"
+			path="SCR"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="0242ac12-0002-a1ec-8ec5-8ffc04200956">
+			<DocumentID>0242ac12-0002-a1ec-8ec5-8ffc04160956</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>John Thomas</CreatedBy>
+			<CreationDate>2021-11-01T13:19:03.048</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="0242ac12-0002-a1ec-8ec5-8ffc03fa8956">
+					<DocumentID>0242ac12-0002-a1ec-8ec5-8ffc03f08956</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>John Thomas</CreatedBy>
+					<CreationDate>2021-11-01T13:19:03.048</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="0242ac12-0002-a1ec-8ec5-8ffc03df0956"
+							path="SCR/en-US_0242ac12-0002-a1ec-8ec5-8ffc03df0956"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="0242ac12-0002-a1ec-8ec5-8ffc04160956"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="0242ac12-0002-a1ec-8ec5-8ffc03f08956"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="0242ac12-0002-a1ec-8ec5-8ffc04020956"
+					path="SCR/TranslationInformation_0242ac12-0002-a1ec-8ec5-8ffc04020956"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
